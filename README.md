@@ -10,7 +10,7 @@
 
 ## Notebook
 
-File: `Termux Jupyter Notebook up and running.ipynb`
+File: [readme.ipynb](./readme.ipynb)
 
 ```python
 print("Hello Android")
