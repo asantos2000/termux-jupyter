@@ -1,5 +1,9 @@
 # Running Jupyter notebook on android with Termux
 
+[Termux](https://wiki.termux.com/wiki/Main_Page) is an Android terminal emulator and Linux environment application that works directly with no rooting or setup required.
+
+[The Jupyter Notebook](https://jupyter.org/) is an open-source web application that allows you to create and share documents that contain live code, equations, visualizations and narrative text.
+
 ## TL;DR
 
 ![](media/terminal.png)
